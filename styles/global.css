@@ -24,6 +24,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 
 body,
@@ -32,6 +33,7 @@ textarea,
 select,
 button {
     font: 400 1rem "Manrope", sans-serif;
+    
 }
 
 button{
@@ -41,4 +43,13 @@ button{
 a {
     color: inherit;
     text-decoration: none;
+}
+
+footer {
+    background-color: var(--gray-900);
+    color: var(--cyan-100);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
 }

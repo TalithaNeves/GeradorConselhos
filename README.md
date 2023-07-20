@@ -31,6 +31,7 @@ habilidades de codificação criando projetos realistas.
 ✅ Ver os estados de foco para todos os elementos interativos na página;
 
 ✅ Gere um novo conselho clicando no ícone do dado;
+
 ✅ Copie o conselho para a área de transferência (este é um desafio extra, achei interessante adicionar).
 
 <h1>Captura de tela</h1>
